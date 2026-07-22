@@ -3,7 +3,7 @@
 This repository contains the reproducibility artifacts for the matched
 cross-domain comparison of fixed hold-out and five-fold out-of-fold stacking
 protocols on CIFAR-10 and chest CT classification.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21489545.svg)](https://doi.org/10.5281/zenodo.21489545)
 ## Repository structure
 
 - `artifacts/cifar10/`
