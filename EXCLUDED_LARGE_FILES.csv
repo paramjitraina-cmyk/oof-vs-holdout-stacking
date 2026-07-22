@@ -1,0 +1,40 @@
+relative_path,reason,size_mb
+artifacts/cifar10/Meta_Models/CIFAR10_Holdout_LogisticRegression.joblib,excluded extension .joblib,0.004004478454589844
+artifacts/cifar10/Meta_Models/CIFAR10_Holdout_LightGBM.joblib,excluded extension .joblib,3.148181915283203
+artifacts/cifar10/Meta_Models/CIFAR10_OOF_LogisticRegression.joblib,excluded extension .joblib,0.004004478454589844
+artifacts/cifar10/Meta_Models/CIFAR10_OOF_LightGBM.joblib,excluded extension .joblib,3.331836700439453
+artifacts/ct/Meta_Learners/CT_OOF_Logistic_Regression.joblib,excluded extension .joblib,0.0014162063598632812
+artifacts/ct/Meta_Learners/CT_OOF_LightGBM.joblib,excluded extension .joblib,0.12269973754882812
+artifacts/ct/Meta_Models/CT_OOF_LogisticRegression.joblib,excluded extension .joblib,0.0008077621459960938
+artifacts/ct/Meta_Models/CT_Holdout_LogisticRegression.joblib,excluded extension .joblib,0.0008077621459960938
+artifacts/ct/Meta_Models/CT_OOF_LightGBM.joblib,excluded extension .joblib,0.13193893432617188
+artifacts/ct/Meta_Models/CT_Holdout_LightGBM.joblib,excluded extension .joblib,0.12733078002929688
+artifacts/ct/Final_Base_Models/CT_ResNet50_Final.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/Final_Base_Models/CT_EfficientNetB0_Final.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/Configuration_Verification/CT_ResNet50_Verification_Best.keras,model/checkpoint folder,217.32285690307617
+artifacts/ct/Configuration_Verification/CT_ResNet50_Verification_Test_Predictions.npy,model/checkpoint folder,0.00391387939453125
+artifacts/ct/Configuration_Verification/CT_ResNet50_Verification_Test_Probabilities.npy,model/checkpoint folder,0.00391387939453125
+artifacts/ct/Configuration_Verification/CT_ResNet50_Verification_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/Configuration_Verification/CT_EfficientNetB0_Verification_Best.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/Configuration_Verification/CT_EfficientNetB0_Verification_Test_Predictions.npy,model/checkpoint folder,0.00391387939453125
+artifacts/ct/Configuration_Verification/CT_EfficientNetB0_Verification_Test_Probabilities.npy,model/checkpoint folder,0.00391387939453125
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_1_Stage1_Best.weights.h5,model/checkpoint folder,96.54069519042969
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_1_Stage2_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_2_Stage1_Best.weights.h5,model/checkpoint folder,96.54069519042969
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_2_Stage2_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_3_Stage1_Best.weights.h5,model/checkpoint folder,96.54069519042969
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_3_Stage2_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_4_Stage1_Best.weights.h5,model/checkpoint folder,96.54069519042969
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_4_Stage2_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_5_Stage1_Best.weights.h5,model/checkpoint folder,96.54069519042969
+artifacts/ct/OOF_Checkpoints/CT_ResNet50/Fold_5_Stage2_Best.weights.h5,model/checkpoint folder,217.1539764404297
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_1_Stage1_Best.weights.h5,model/checkpoint folder,19.8638916015625
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_1_Stage2_Best.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_2_Stage1_Best.weights.h5,model/checkpoint folder,19.8638916015625
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_2_Stage2_Best.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_3_Stage1_Best.weights.h5,model/checkpoint folder,19.8638916015625
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_3_Stage2_Best.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_4_Stage1_Best.weights.h5,model/checkpoint folder,19.8638916015625
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_4_Stage2_Best.weights.h5,model/checkpoint folder,35.42176818847656
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_5_Stage1_Best.weights.h5,model/checkpoint folder,19.8638916015625
+artifacts/ct/OOF_Checkpoints/CT_EfficientNetB0/Fold_5_Stage2_Best.weights.h5,model/checkpoint folder,35.42176818847656

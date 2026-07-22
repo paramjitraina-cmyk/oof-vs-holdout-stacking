@@ -1,0 +1,11 @@
+{
+  "model": "CT_EfficientNetB0",
+  "completed_folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "total_folds": 5
+}

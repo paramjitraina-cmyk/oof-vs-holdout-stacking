@@ -1,0 +1,23 @@
+{
+  "meta_training_shape": [
+    1984,
+    4
+  ],
+  "meta_test_shape": [
+    497,
+    4
+  ],
+  "meta_features": [
+    "ResNet50_Prob_COVID",
+    "ResNet50_Prob_nonCOVID",
+    "EfficientNetB0_Prob_COVID",
+    "EfficientNetB0_Prob_nonCOVID"
+  ],
+  "logistic_regression_best_parameters": {
+    "classifier__C": 1.0,
+    "classifier__penalty": "l2"
+  },
+  "logistic_regression_cv_macro_f1": 0.9576177677048193,
+  "best_test_model": "OOF LightGBM",
+  "best_test_accuracy_percent": 96.579476861167
+}
